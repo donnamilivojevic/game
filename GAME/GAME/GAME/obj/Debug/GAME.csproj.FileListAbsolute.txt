@@ -1,0 +1,18 @@
+c:\users\nathalie\documents\visual studio 2015\Projects\GAME\GAME\bin\Debug\GAME.exe.config
+C:\Users\Nathalie\Documents\Visual Studio 2015\Projects\GAME\GAME\obj\Debug\GAME.csprojResolveAssemblyReference.cache
+C:\Users\Nathalie\Documents\Visual Studio 2015\Projects\GAME\GAME\bin\Debug\GAME.exe
+C:\Users\Nathalie\Documents\Visual Studio 2015\Projects\GAME\GAME\bin\Debug\GAME.pdb
+C:\Users\Nathalie\Documents\Visual Studio 2015\Projects\GAME\GAME\obj\Debug\GAME.exe
+C:\Users\Nathalie\Documents\Visual Studio 2015\Projects\GAME\GAME\obj\Debug\GAME.pdb
+C:\Users\Nathalie\Dropbox\Game\GAME\GAME\GAME\bin\Debug\GAME.exe.config
+C:\Users\Nathalie\Dropbox\Game\GAME\GAME\GAME\obj\Debug\GAME.exe
+C:\Users\Nathalie\Dropbox\Game\GAME\GAME\GAME\obj\Debug\GAME.pdb
+C:\Users\donmi\Dropbox\Game\GAME\GAME\GAME\bin\Debug\GAME.exe.config
+C:\Users\donmi\Dropbox\Game\GAME\GAME\GAME\obj\Debug\GAME.exe
+C:\Users\donmi\Dropbox\Game\GAME\GAME\GAME\obj\Debug\GAME.pdb
+C:\Users\donmi\Dropbox\Game\GAME\GAME\GAME\obj\Debug\GAME.csprojResolveAssemblyReference.cache
+C:\Users\donmi\Dropbox\Game\GAME\GAME\GAME\bin\Debug\GAME.exe
+C:\Users\donmi\Dropbox\Game\GAME\GAME\GAME\bin\Debug\GAME.pdb
+C:\Users\Nathalie\Dropbox\Game\GAME\GAME\GAME\bin\Debug\GAME.exe
+C:\Users\Nathalie\Dropbox\Game\GAME\GAME\GAME\bin\Debug\GAME.pdb
+C:\Users\Nathalie\Dropbox\Game\GAME\GAME\GAME\obj\Debug\GAME.csprojResolveAssemblyReference.cache

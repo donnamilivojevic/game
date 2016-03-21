@@ -1,0 +1,6 @@
+C:\Users\donmi\Dropbox\Game\GAME\GAME\bin\Debug\GAME.exe.config
+C:\Users\donmi\Dropbox\Game\GAME\GAME\obj\Debug\GAME.exe
+C:\Users\donmi\Dropbox\Game\GAME\GAME\obj\Debug\GAME.pdb
+C:\Users\Nathalie\Dropbox\Game\GAME\GAME\bin\Debug\GAME.exe.config
+C:\Users\Nathalie\Dropbox\Game\GAME\GAME\obj\Debug\GAME.exe
+C:\Users\Nathalie\Dropbox\Game\GAME\GAME\obj\Debug\GAME.pdb
